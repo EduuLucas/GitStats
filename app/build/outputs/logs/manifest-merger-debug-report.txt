@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/201c3ddf309dc137728be1f2c57cae97/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2dd5f9ef6102d645ce37ef5d5cfeebbb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/11634880933686d1bc884f13f7c3f2df/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/5e01ce7ab89e784700b4411bb1ef8e94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/78d07f9d06f6fe001d65c11d41c61a16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c42dd343e13e406e6ee638a970849fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/dfb11cab4ce356da942b7289cd1afa28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8dead5fdf5b32278c310d9ea0dd88a52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/939f5b3a2ae767f2bfe636c764698f18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/a9e777c8f494616df26030bac3e6a70e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a4bddcfbc08166d22a5a67498a7262c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2ed621af1da1657ad262bd3476e9c26d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8670b79de49027b1fa49d3931e6e361f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a7aa0956b367c1f431f53af57744d4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/176e313652798814505e1dba02b57c4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0f9ab25718ce13f5ab36c8b0baf57d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/bde2d652cacb592e484ca63bccf08186/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/290ecebb37f86e8f45a82e149822bba1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/59d3cf9d096792beed08dc7b2a667efa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/d2518c1416bd6e7268b8f223974354ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8a52b54a81a48e10e6ddb419581dc1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7ef4d75d5725b8394df0a5c21ae885a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/917979a137ffe01e5455a7d19a793e48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/342140ace04019893a59f1cbc42bede2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c44fc8cd27b18d756f8686d7eb15b0af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/ea51fcc49fc00030b0183d6153b102aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0b9ed3a273fdaf4fab8a1ebaceec9c6b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/71291a3795055fb227c19ad83a60cdc3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/751a65c0639129cd146a3128fb553764/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eduardo/.gradle/caches/transforms-2/files-2.1/b295f71261002d47daec918df4f75228/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support:design:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/201c3ddf309dc137728be1f2c57cae97/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/201c3ddf309dc137728be1f2c57cae97/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/290ecebb37f86e8f45a82e149822bba1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/290ecebb37f86e8f45a82e149822bba1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eduardo/.gradle/caches/transforms-2/files-2.1/b295f71261002d47daec918df4f75228/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eduardo/.gradle/caches/transforms-2/files-2.1/b295f71261002d47daec918df4f75228/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.ifpb.gitstats.view.Repositorios
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:12:9-64
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:12:19-52
+activity#com.ifpb.gitstats.view.TelaPrincipal
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:13:9-56
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:13:19-53
+activity#com.ifpb.gitstats.view.PutUser
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.ifpb.gitstats.ui.login.LoginActivity
+ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml:22:13-51
+uses-sdk
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/201c3ddf309dc137728be1f2c57cae97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/201c3ddf309dc137728be1f2c57cae97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2dd5f9ef6102d645ce37ef5d5cfeebbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2dd5f9ef6102d645ce37ef5d5cfeebbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/11634880933686d1bc884f13f7c3f2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/11634880933686d1bc884f13f7c3f2df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/5e01ce7ab89e784700b4411bb1ef8e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/5e01ce7ab89e784700b4411bb1ef8e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/78d07f9d06f6fe001d65c11d41c61a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/78d07f9d06f6fe001d65c11d41c61a16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c42dd343e13e406e6ee638a970849fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c42dd343e13e406e6ee638a970849fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/dfb11cab4ce356da942b7289cd1afa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/dfb11cab4ce356da942b7289cd1afa28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8dead5fdf5b32278c310d9ea0dd88a52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8dead5fdf5b32278c310d9ea0dd88a52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/939f5b3a2ae767f2bfe636c764698f18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/939f5b3a2ae767f2bfe636c764698f18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/a9e777c8f494616df26030bac3e6a70e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/a9e777c8f494616df26030bac3e6a70e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a4bddcfbc08166d22a5a67498a7262c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a4bddcfbc08166d22a5a67498a7262c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2ed621af1da1657ad262bd3476e9c26d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2ed621af1da1657ad262bd3476e9c26d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8670b79de49027b1fa49d3931e6e361f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8670b79de49027b1fa49d3931e6e361f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a7aa0956b367c1f431f53af57744d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7a7aa0956b367c1f431f53af57744d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/176e313652798814505e1dba02b57c4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/176e313652798814505e1dba02b57c4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0f9ab25718ce13f5ab36c8b0baf57d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0f9ab25718ce13f5ab36c8b0baf57d33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/bde2d652cacb592e484ca63bccf08186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/bde2d652cacb592e484ca63bccf08186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/2d36ddd58d150744447e920d48a07340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/290ecebb37f86e8f45a82e149822bba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/290ecebb37f86e8f45a82e149822bba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/59d3cf9d096792beed08dc7b2a667efa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/59d3cf9d096792beed08dc7b2a667efa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/d2518c1416bd6e7268b8f223974354ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/d2518c1416bd6e7268b8f223974354ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8a52b54a81a48e10e6ddb419581dc1cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/8a52b54a81a48e10e6ddb419581dc1cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7ef4d75d5725b8394df0a5c21ae885a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/7ef4d75d5725b8394df0a5c21ae885a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/917979a137ffe01e5455a7d19a793e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/917979a137ffe01e5455a7d19a793e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/342140ace04019893a59f1cbc42bede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/342140ace04019893a59f1cbc42bede2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c44fc8cd27b18d756f8686d7eb15b0af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/c44fc8cd27b18d756f8686d7eb15b0af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/ea51fcc49fc00030b0183d6153b102aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/ea51fcc49fc00030b0183d6153b102aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0b9ed3a273fdaf4fab8a1ebaceec9c6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/0b9ed3a273fdaf4fab8a1ebaceec9c6b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/71291a3795055fb227c19ad83a60cdc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/71291a3795055fb227c19ad83a60cdc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/751a65c0639129cd146a3128fb553764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/eduardo/.gradle/caches/transforms-2/files-2.1/751a65c0639129cd146a3128fb553764/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eduardo/.gradle/caches/transforms-2/files-2.1/b295f71261002d47daec918df4f75228/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eduardo/.gradle/caches/transforms-2/files-2.1/b295f71261002d47daec918df4f75228/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		ADDED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eduardo/Desktop/IFPB/ADS/5º Período/PDM/Projeto/GitStats/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/eduardo/.gradle/caches/transforms-2/files-2.1/49aa2a8e194cf70fffd39c5773c475a3/AndroidManifest.xml:24:13-83
