@@ -6,55 +6,27 @@
     android:layout_height="match_parent"
     tools:context=".view.PutUser">
 
-    <ImageView
-        android:id="@+id/imageView"
+    <EditText
+        android:id="@+id/textUser"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="@string/Avatar"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.436"
-        tools:srcCompat="@tools:sample/avatars" />
-
-    <EditText
-        android:id="@+id/editText2"
-        android:layout_width="318dp"
-        android:layout_height="41dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="8dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="User"
-        app:layout_constraintBottom_toTopOf="@+id/button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.494"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
-
-    <Button
-        android:id="@+id/button"
-        android:layout_width="168dp"
-        android:layout_height="47dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="8dp"
-        android:text="@android:string/search_go"
+        android:text="Usuário"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.549" />
 
-    <WebView
-        android:id="@+id/webView"
-        android:layout_width="393dp"
-        android:layout_height="188dp"
-        android:layout_marginTop="8dp"
-        android:background="#000C0A0A"
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pesquisar"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+        app:layout_constraintTop_toBottomOf="@+id/textUser"
+        app:layout_constraintVertical_bias="0.246" />
 </android.support.constraint.ConstraintLayout>

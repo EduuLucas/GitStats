@@ -12,6 +12,9 @@ class Repositorio {
         this.repos_URL = repos_URL;
     }
 
+    public Repositorio() {
+    }
+
     public String getName() {
         return name;
     }
